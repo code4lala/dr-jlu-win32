@@ -5,7 +5,7 @@
 
 需要开机自启的同学请复制一份快捷方式到
 
-C:\Users\\<用户名>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\
+C:\Users\\<用户名\>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\
 
 目录即可
 
