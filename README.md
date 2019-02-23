@@ -1,7 +1,7 @@
 # dr-jlu-win32
 吉大windows带用户界面版Dr校园网登录客户端
 
-下载地址 https://github.com/ImFengLala/dr-jlu-win32/releases
+下载地址 https://github.com/code4lala/dr-jlu-win32/releases
 
 需要开机自启的同学请复制一份快捷方式到
 
